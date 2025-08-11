@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Pasquini
+  given-names: Simone
+title: "Identificazione dei frammenti nucleari prodotti in eventi simulati all'esperimento FOOT"
+version: 1.0.0
+doi: https://doi.org/10.5281/zenodo.16323694
+date-released: 2022-10-21
+url: "https://github.com/simop07/nuclear_fragments_id"
